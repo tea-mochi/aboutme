@@ -6,6 +6,7 @@ Navigation:
 2. [Academics](#Academics)
 
 3. [Personal](#Personal)
+
 ## Introduction
 Hi, my name is Timothy (Tim) Chu(he/him/his). I'm a second-year **Math-CS** student. My ~~relatively empty~~ github is located here: [link](https://github.com/tea-mochi)
 
@@ -17,9 +18,9 @@ I am a simple person: my favorite command is `make`, and my favorite C++ operato
 
 Goals:
 
-- [x] Get enough sleep 🛌
-- [ ] Complete spring quarter ✍
-- [ ] Rule the world 🧍‍♂️
+[x] Get enough sleep 🛌
+[ ] Complete spring quarter ✍
+[ ] Rule the world 🧍‍♂️
 
 ## Personal
 Some things I enjoy include:
