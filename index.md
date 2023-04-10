@@ -1,11 +1,11 @@
 # About Me
 Navigation:
 
-1. [Intro](#Introduction)
+1. [Intro](#introduction)
 
-2. [Academics](#Academics)
+2. [Academics](#academics)
 
-3. [Personal](#Personal)
+3. [Personal](#personal)
 
 ## Introduction
 Hi, my name is Timothy (Tim) Chu(he/him/his). I'm a second-year **Math-CS** student. My ~~relatively empty~~ github is located here: [link](https://github.com/tea-mochi)
